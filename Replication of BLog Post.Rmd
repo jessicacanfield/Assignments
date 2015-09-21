@@ -1,4 +1,0 @@
----
-title: "Blog Post Replication"
-output: html_document
----
